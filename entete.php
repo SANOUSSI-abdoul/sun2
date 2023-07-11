@@ -95,7 +95,7 @@ include 'function.php';
         <li>
           <a href="#">
             <i class="bx bx-heart" ></i>
-            <span class="links_name">Favrorites</span>
+            <span class="links_name">Fav</span>
           </a>
         </li> -->
             <li>
