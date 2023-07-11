@@ -97,7 +97,7 @@ include 'function.php';
             <i class="bx bx-heart" ></i>
             <span class="links_name">Favrorites</span>
           </a>
-        </li> -->
+        </li> ufhurufiem-->
             <li>
                 <a href="configuration.php">
                     <i class="bx bx-cog"></i>
